@@ -1,0 +1,372 @@
+{
+  "tick": 89,
+  "startedAt": "2026-11-07T16:39:07.185Z",
+  "lastTickAt": "2026-11-07T17:23:37.486Z",
+  "totalAgentsSeen": 2,
+  "totalTicks": 89,
+  "totalErrors": 0,
+  "totalDispatches": 10,
+  "vendorStats": {},
+  "skippedTicks": 0,
+  "lastSkippedAt": null,
+  "lockOwner": "orchestrator-loop-f2ea02",
+  "runtimeHealth": {
+    "schema": "autoclaw.runtime-health.v1",
+    "window": [
+      {
+        "seq": 41,
+        "at": "2026-11-07T16:59:07.275Z",
+        "ok": true,
+        "errors": 0,
+        "durationMs": 98
+      },
+      {
+        "seq": 42,
+        "at": "2026-11-07T16:59:37.289Z",
+        "ok": true,
+        "errors": 0,
+        "durationMs": 111
+      },
+      {
+        "seq": 43,
+        "at": "2026-11-07T17:00:07.297Z",
+        "ok": true,
+        "errors": 0,
+        "durationMs": 120
+      },
+      {
+        "seq": 44,
+        "at": "2026-11-07T17:00:37.430Z",
+        "ok": true,
+        "errors": 0,
+        "durationMs": 252
+      },
+      {
+        "seq": 45,
+        "at": "2026-11-07T17:01:07.262Z",
+        "ok": true,
+        "errors": 0,
+        "durationMs": 84
+      },
+      {
+        "seq": 46,
+        "at": "2026-11-07T17:01:37.289Z",
+        "ok": true,
+        "errors": 0,
+        "durationMs": 110
+      },
+      {
+        "seq": 47,
+        "at": "2026-11-07T17:02:07.290Z",
+        "ok": true,
+        "errors": 0,
+        "durationMs": 110
+      },
+      {
+        "seq": 48,
+        "at": "2026-11-07T17:02:37.288Z",
+        "ok": true,
+        "errors": 0,
+        "durationMs": 108
+      },
+      {
+        "seq": 49,
+        "at": "2026-11-07T17:03:07.292Z",
+        "ok": true,
+        "errors": 0,
+        "durationMs": 112
+      },
+      {
+        "seq": 50,
+        "at": "2026-11-07T17:03:37.281Z",
+        "ok": true,
+        "errors": 0,
+        "durationMs": 100
+      },
+      {
+        "seq": 51,
+        "at": "2026-11-07T17:04:07.301Z",
+        "ok": true,
+        "errors": 0,
+        "durationMs": 120
+      },
+      {
+        "seq": 52,
+        "at": "2026-11-07T17:04:37.328Z",
+        "ok": true,
+        "errors": 0,
+        "durationMs": 147
+      },
+      {
+        "seq": 53,
+        "at": "2026-11-07T17:05:07.423Z",
+        "ok": true,
+        "errors": 0,
+        "durationMs": 236
+      },
+      {
+        "seq": 54,
+        "at": "2026-11-07T17:05:38.117Z",
+        "ok": true,
+        "errors": 0,
+        "durationMs": 927
+      },
+      {
+        "seq": 55,
+        "at": "2026-11-07T17:06:07.294Z",
+        "ok": true,
+        "errors": 0,
+        "durationMs": 111
+      },
+      {
+        "seq": 56,
+        "at": "2026-11-07T17:06:37.281Z",
+        "ok": true,
+        "errors": 0,
+        "durationMs": 99
+      },
+      {
+        "seq": 57,
+        "at": "2026-11-07T17:07:07.299Z",
+        "ok": true,
+        "errors": 0,
+        "durationMs": 115
+      },
+      {
+        "seq": 58,
+        "at": "2026-11-07T17:07:37.292Z",
+        "ok": true,
+        "errors": 0,
+        "durationMs": 108
+      },
+      {
+        "seq": 59,
+        "at": "2026-11-07T17:08:07.299Z",
+        "ok": true,
+        "errors": 0,
+        "durationMs": 114
+      },
+      {
+        "seq": 60,
+        "at": "2026-11-07T17:08:37.298Z",
+        "ok": true,
+        "errors": 0,
+        "durationMs": 112
+      },
+      {
+        "seq": 61,
+        "at": "2026-11-07T17:09:07.299Z",
+        "ok": true,
+        "errors": 0,
+        "durationMs": 114
+      },
+      {
+        "seq": 62,
+        "at": "2026-11-07T17:09:37.306Z",
+        "ok": true,
+        "errors": 0,
+        "durationMs": 119
+      },
+      {
+        "seq": 63,
+        "at": "2026-11-07T17:10:07.310Z",
+        "ok": true,
+        "errors": 0,
+        "durationMs": 123
+      },
+      {
+        "seq": 64,
+        "at": "2026-11-07T17:10:37.290Z",
+        "ok": true,
+        "errors": 0,
+        "durationMs": 104
+      },
+      {
+        "seq": 65,
+        "at": "2026-11-07T17:11:07.458Z",
+        "ok": true,
+        "errors": 0,
+        "durationMs": 272
+      },
+      {
+        "seq": 66,
+        "at": "2026-11-07T17:11:37.305Z",
+        "ok": true,
+        "errors": 0,
+        "durationMs": 119
+      },
+      {
+        "seq": 67,
+        "at": "2026-11-07T17:12:07.304Z",
+        "ok": true,
+        "errors": 0,
+        "durationMs": 116
+      },
+      {
+        "seq": 68,
+        "at": "2026-11-07T17:12:37.290Z",
+        "ok": true,
+        "errors": 0,
+        "durationMs": 104
+      },
+      {
+        "seq": 69,
+        "at": "2026-11-07T17:13:07.873Z",
+        "ok": true,
+        "errors": 0,
+        "durationMs": 670
+      },
+      {
+        "seq": 70,
+        "at": "2026-11-07T17:13:37.285Z",
+        "ok": true,
+        "errors": 0,
+        "durationMs": 97
+      },
+      {
+        "seq": 71,
+        "at": "2026-11-07T17:14:07.329Z",
+        "ok": true,
+        "errors": 0,
+        "durationMs": 140
+      },
+      {
+        "seq": 72,
+        "at": "2026-11-07T17:14:37.282Z",
+        "ok": true,
+        "errors": 0,
+        "durationMs": 89
+      },
+      {
+        "seq": 73,
+        "at": "2026-11-07T17:15:07.288Z",
+        "ok": true,
+        "errors": 0,
+        "durationMs": 96
+      },
+      {
+        "seq": 74,
+        "at": "2026-11-07T17:15:37.275Z",
+        "ok": true,
+        "errors": 0,
+        "durationMs": 83
+      },
+      {
+        "seq": 75,
+        "at": "2026-11-07T17:16:07.286Z",
+        "ok": true,
+        "errors": 0,
+        "durationMs": 94
+      },
+      {
+        "seq": 76,
+        "at": "2026-11-07T17:16:37.424Z",
+        "ok": true,
+        "errors": 0,
+        "durationMs": 232
+      },
+      {
+        "seq": 77,
+        "at": "2026-11-07T17:17:07.329Z",
+        "ok": true,
+        "errors": 0,
+        "durationMs": 138
+      },
+      {
+        "seq": 78,
+        "at": "2026-11-07T17:17:37.294Z",
+        "ok": true,
+        "errors": 0,
+        "durationMs": 100
+      },
+      {
+        "seq": 79,
+        "at": "2026-11-07T17:18:07.383Z",
+        "ok": true,
+        "errors": 0,
+        "durationMs": 181
+      },
+      {
+        "seq": 80,
+        "at": "2026-11-07T17:18:37.329Z",
+        "ok": true,
+        "errors": 0,
+        "durationMs": 126
+      },
+      {
+        "seq": 81,
+        "at": "2026-11-07T17:19:07.293Z",
+        "ok": true,
+        "errors": 0,
+        "durationMs": 90
+      },
+      {
+        "seq": 82,
+        "at": "2026-11-07T17:19:37.304Z",
+        "ok": true,
+        "errors": 0,
+        "durationMs": 101
+      },
+      {
+        "seq": 83,
+        "at": "2026-11-07T17:20:07.309Z",
+        "ok": true,
+        "errors": 0,
+        "durationMs": 106
+      },
+      {
+        "seq": 84,
+        "at": "2026-11-07T17:20:37.302Z",
+        "ok": true,
+        "errors": 0,
+        "durationMs": 99
+      },
+      {
+        "seq": 85,
+        "at": "2026-11-07T17:21:07.321Z",
+        "ok": true,
+        "errors": 0,
+        "durationMs": 117
+      },
+      {
+        "seq": 86,
+        "at": "2026-11-07T17:21:37.304Z",
+        "ok": true,
+        "errors": 0,
+        "durationMs": 101
+      },
+      {
+        "seq": 87,
+        "at": "2026-11-07T17:22:07.452Z",
+        "ok": true,
+        "errors": 0,
+        "durationMs": 248
+      },
+      {
+        "seq": 88,
+        "at": "2026-11-07T17:22:37.299Z",
+        "ok": true,
+        "errors": 0,
+        "durationMs": 96
+      },
+      {
+        "seq": 89,
+        "at": "2026-11-07T17:23:07.302Z",
+        "ok": true,
+        "errors": 0,
+        "durationMs": 99
+      },
+      {
+        "seq": 90,
+        "at": "2026-11-07T17:23:37.486Z",
+        "ok": true,
+        "errors": 0,
+        "durationMs": 118
+      }
+    ],
+    "seq": 90,
+    "windowMax": 50,
+    "acks": [],
+    "ackedThroughSeq": 0
+  }
+}
